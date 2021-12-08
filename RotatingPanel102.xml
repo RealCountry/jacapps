@@ -22,5 +22,12 @@
     <url>https://www.neighborhoodhome.com/en/catalog/20072-bedroom/262-mattresses</url>
     <redirect>n</redirect>
   </panel>
+  
+    <panel>
+    <number>4</number>
+    <image>https://static.wixstatic.com/media/3b7e21_72c6342693d24f41b6e3f40980d82f8c~mv2.jpg</image>
+    <url>https://www.neighborhoodhome.com</url>
+    <redirect>n</redirect>
+  </panel>
 
 </rotator>
